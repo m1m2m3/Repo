@@ -7,7 +7,7 @@
 
 2. download latest version of nginx from http://nginx.org/en/download.html website
 ```sh 
- # cd /opt
+ # #cd /opt
  # wget http://nginx.org/download/nginx-1.15.4.tar.gz
  # tar -zxvf nginx-1.15.4.tar.gz
  # mv nginx-1.15.4 /opt/nginx 
